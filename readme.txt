@@ -7,8 +7,8 @@ replicate that design in HTML and CSS. I developed a responsive\
 website that displays images, descriptions and links to each of\ 
 the portfolio projects I will complete throughout the course of my Nanodegree program.
 
-I have a folder called portfolioSite where\ 
-I have three folders - images, js and css and one index.html file.
+I have a folder callded FinalProject_Portfolio where\ 
+I have three folders - Images, js and css and one index file.
 In images folder I have the customized logo called browser-pic.jpg. 
 In js folder I have all my java script files and\
 in css folder I have all my css files.
@@ -16,7 +16,7 @@ Import fonts from the website.
 Created a styles.css file.
 I have 8 images title text (h1, h2, etc.)
 regular (paragraph) text
-All div contain a CSS class or id.HTML and CSS using HTML Beautifier and css Beautifier.
+All div contain a CSS class or id.
 Used Grid-Based Layout.
 I have followed css and HTML guidelines.
 
