@@ -1,6 +1,6 @@
-Project: Build a Portfolio Site
+<h1>Project: Build a Portfolio Site</h1?
 
-Documentation of my Project:
+<h2>Documentation of my Project:</h2>
 Contents are taken from websites and Instructors Notes.
 I was provided with a design mockup as a PDF-file and\
 replicate that design in HTML and CSS. I developed a responsive\
