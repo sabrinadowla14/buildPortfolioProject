@@ -2,16 +2,11 @@ Project: Build a Portfolio Site
 
 Documentation of my Project:
 Contents are taken from websites and Instructors Notes.
-I was provided with a design mockup as a PDF-file and\
-replicate that design in HTML and CSS. I developed a responsive\
-website that displays images, descriptions and links to each of\ 
-the portfolio projects I will complete throughout the course of my Nanodegree program.
-
-I have a folder callded FinalProject_Portfolio where\ 
+I was provided with a design mockup as a PDF-file and replicate that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects I have completed throughout the course
+of my Nanodegree program at Udacity. I have a folder called FinalProject_Portfolio where 
 I have three folders - Images, js and css and one index file.
 In images folder I have the customized logo called browser-pic.jpg. 
-In js folder I have all my java script files and\
-in css folder I have all my css files.
+In js folder I have all my java script files and in css folder I have all my css files.
 Import fonts from the website.
 Created a styles.css file.
 I have 8 images title text (h1, h2, etc.)
