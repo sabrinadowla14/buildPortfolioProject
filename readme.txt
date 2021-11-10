@@ -1,4 +1,4 @@
-Project: Build a Portfolio Site
+Project: Build a Portfolio Site:
 
 Documentation of my Project:
 Contents are taken from websites and Instructors Notes.
